@@ -1,14 +1,13 @@
 {
-  "main.css": "/static/css/main.cc78c4bc.chunk.css",
-  "main.js": "/static/js/main.1a1fb70b.chunk.js",
-  "main.js.map": "/static/js/main.1a1fb70b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.44f12415f8e162835b9434839c7f2bbc.js": "/precache-manifest.44f12415f8e162835b9434839c7f2bbc.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.cc78c4bc.chunk.css.map": "/static/css/main.cc78c4bc.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/atko.xyz/static/css/main.c1d65e2c.chunk.css",
+  "main.js": "/atko.xyz/static/js/main.d8a4e41f.chunk.js",
+  "main.js.map": "/atko.xyz/static/js/main.d8a4e41f.chunk.js.map",
+  "runtime~main.js": "/atko.xyz/static/js/runtime~main.a60d981b.js",
+  "runtime~main.js.map": "/atko.xyz/static/js/runtime~main.a60d981b.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/atko.xyz/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/atko.xyz/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/atko.xyz/index.html",
+  "precache-manifest.0c3741ce0578a47d3f2d8202baf08c5f.js": "/atko.xyz/precache-manifest.0c3741ce0578a47d3f2d8202baf08c5f.js",
+  "service-worker.js": "/atko.xyz/service-worker.js",
+  "static/css/main.c1d65e2c.chunk.css.map": "/atko.xyz/static/css/main.c1d65e2c.chunk.css.map"
 }
